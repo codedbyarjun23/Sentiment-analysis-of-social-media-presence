@@ -19,7 +19,7 @@ body {
 
 @layer utilities {
     .glass-panel {
-        @apply bg-gradient-to-br from-glass to-glass/50 backdrop-blur-md border border-glassBorder shadow-lg rounded-xl;
+        @apply bg-glass backdrop-blur-xl border border-glassBorder shadow-2xl rounded-xl;
     }
 
     .glass-input {

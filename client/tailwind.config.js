@@ -7,8 +7,8 @@ export default {
     theme: {
         extend: {
             colors: {
-                glass: "rgba(255, 255, 255, 0.15)", // Glass Layer - increased opacity
-                glassBorder: "rgba(255, 255, 255, 0.2)", // Glass Border - increased visibility
+                glass: "rgba(10, 15, 25, 0.7)", // Glass Layer - dark and sleek
+                glassBorder: "rgba(255, 255, 255, 0.08)", // Glass Border - subtle
                 primary: "#6EE7B7", // Mint Neon
                 secondary: "#7DD3FC", // Accent 1: Ice Blue
                 accent: "#A78BFA", // Accent 2: Soft Purple
